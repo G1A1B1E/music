@@ -50,6 +50,31 @@ And the changes should be applied upon saves!
 
 EOM
 
+cat << "EOF"
+ORANGE       _,.
+     ,` -.)
+    '( _/'-\\-.               
+   /,|`--._,-^|            ,     
+   \_| |`-._/||          ,'|       
+     |  `-, / |         /  /      
+     |     || |        /  /       
+      `r-._||/   __   /  /  
+  __,-<_     )`-/  `./  /
+ '  \   `---'   \   /  / 
+     |           |./  /  
+     /           //  /     
+ \_/' \         |/  /         
+  |    |   _,^-'/  /              
+  |    , ``  (\/  /_        
+   \,.->._    \X-=/^         
+   (  /   `-._//^`  
+    `Y-.____(__}              
+     |     {__)           
+           ()`     
+EOF
+
+clear 
+
 # {
 #  "image": "mcr.microsoft.com/devcontainers/universal:2",
 #  "features": {
