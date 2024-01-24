@@ -22,3 +22,9 @@ echo npm start
 npm run
 
 
+echo description 
+echo Music
+echo The best site for displaying the best music and playlists!
+echo look for a secret on the page 
+echo give it a second for the page to load
+
